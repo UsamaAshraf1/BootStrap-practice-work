@@ -1,0 +1,19 @@
+#blog:hover{
+    color: blue;
+    text-decoration: underline;
+}
+#cent{
+    border: solid brown;
+}
+#container{
+    border: 5px solid brown;
+}
+#container1{
+    border: 5px solid blue;
+}
+#container2{
+    border: 5px solid green;
+}
+#container3{
+    border: 5px solid brown;
+}
